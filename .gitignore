@@ -16,3 +16,10 @@
 .prettierignore
 
 /assessment/node_modules
+
+# Crio assessment generated files
+/assessment/.env
+/assessment/cypressResults.json
+/assessment/assesment_result.json
+/assesment_result.json
+/assessment/package-lock.json
