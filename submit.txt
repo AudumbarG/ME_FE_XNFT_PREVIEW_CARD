@@ -1,1 +1,1 @@
-http://65.2.125.159:8081
+https://crioo.netlify.app/
